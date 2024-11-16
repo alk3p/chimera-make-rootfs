@@ -1,4 +1,4 @@
-SCRIPT_NAME := alpine-make-rootfs
+SCRIPT_NAME := chimera-make-rootfs
 
 DESTDIR := /
 PREFIX := /usr/local
